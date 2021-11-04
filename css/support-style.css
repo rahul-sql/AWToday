@@ -1,0 +1,115 @@
+body{
+    background-image: url("../images/home-images/home\ background.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header img{
+    width: 500px;
+    margin-left: 130px;
+}
+
+/* navigation bar */
+
+.menubar{
+    margin: 0 auto;
+    width: 1220px;
+    background-color: black;
+}
+
+.menubar img{  
+    width: 40px;
+}
+
+
+nav ul{
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    margin-left: 20px;
+
+}
+
+nav ul li{
+    display: inline-block;
+    margin-right: 10px;
+    padding: 0;
+}
+
+nav ul li .tabs{
+    padding: 5x;
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    font-family: 'Zen Antique Soft', serif;
+    padding: 0 10px;
+
+}
+
+nav ul li .tabs:hover{
+    background-color: white;
+    color: black;
+}
+/* footer */
+
+footer{
+    color: white;
+    text-align: right;
+    margin-right: 150px;
+    padding: 10px;
+    font-size: 25px;
+}
+
+/* start your body below */
+
+.container{
+    background-color: white;
+    height: 410px;
+    width: 1220px;
+    margin: 0 auto;
+}
+
+.contact{
+    width: 800px;
+    margin-left: 50px;
+    margin-top: 0;
+    padding-top: 10px;
+
+}
+
+.contact h2{
+    font-size: 45px;
+    font-family: 'Amiri', serif;
+    padding: 0;
+    margin-left: 20px;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+
+.icon   {
+    width: 30px;
+    margin-right: 20px;
+}
+
+table{
+    margin: 0 auto 0 20px;
+
+}
+
+.table tr, td{
+    padding: 10px;
+    text-align: left;
+    font-size: 28px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+/* map */
+
+.map{
+    background-color: white;
+    width: 1220px;
+    margin: 0 auto;    
+}

@@ -1,0 +1,75 @@
+/*  */
+
+body{
+    margin: 0;
+}
+
+
+header img{
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* navigation */
+
+.menubar{
+    width: 100%;
+}
+
+nav ul{
+    margin-left: 0;
+}
+
+nav ul li{
+    display: block;
+}
+
+nav ul li .tabs{
+    font-size: 23px;
+}
+
+/* conatiner 1 */
+.container{
+    width: 100%;
+}
+
+.contact{
+    width: 100px;
+    margin: 0;
+    padding: 0;
+}
+
+.contact h2{
+    font-size: 28px;
+    margin: 0;
+    padding-top: 20px;
+    padding-left: 15px;
+    width: 200px;
+    font-weight: bold;
+}
+
+/*  */
+
+.icon img{
+    width: 40px;
+    margin-right: 5px;
+}
+
+table{
+    margin: 0 auto 0 5px;
+
+}
+
+.table tr, td{
+    font-size: 22px;
+}
+
+/*  */
+.map{
+    width: 100%;
+    height: 450px;
+}
+
+iframe{
+    width: 100%;
+}

@@ -1,0 +1,94 @@
+
+body{
+    margin: 0;
+}
+
+
+header img{
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* navigation */
+
+.menubar{
+    width: 100%;
+}
+
+nav ul{
+    margin-left: 0;
+}
+
+nav ul li{
+    display: block;
+}
+
+nav ul li .tabs{
+    font-size: 23px;
+}
+
+/*  */
+
+
+.container{
+    height: auto;
+    width: 100%; 
+}
+
+.head{
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    margin: 0;
+}
+
+.input_form{
+    /* margin-left: 50px; */
+    width: 100%;
+    padding-left: 0;
+    margin: 0;
+
+}
+
+.myForm label{
+    font-size: 18px;
+    padding-top: 0;
+    padding-bottom: 0;
+} 
+
+.input-box{
+    width: 60%;
+    font-size: 20px;
+    padding: 0;
+}
+
+/*  */
+
+
+/* clip */
+
+.clip1{
+    width: 0;
+}
+
+.clip1 img{
+    display: none;
+}
+
+/* out put conatiner */
+
+.output-container{
+    width: 100%;
+    height: 600px;
+}
+
+.output-table{
+    width: 100%;
+    margin-left: 0;
+    padding-top: 25px;
+}
+
+.output-table th, td{
+    padding: 5px;
+    font-size: 16px;
+}
